@@ -1,0 +1,17 @@
+{  
+    "name": "arduino-lib-template",
+    "keywords": "arduino, library, template",
+    "description": "Arduino library template for IFX Makers NPI support.",
+    "repository":{  
+       "type":"git",
+       "url":"https://github.com/Infineon/#repository name#.git",
+       "branch":"master"
+    },
+    "version":"1.2.1",
+    "license":"MIT",
+    "frameworks":"arduino",
+    "platforms":[  
+       "infineonxmc",
+       "atmelavr"
+    ]
+ }
