@@ -1,8 +1,6 @@
 # TLE9879-BLDC-Shield
 
-
-Infineon/Assests/Pictures/TLE9879_BLDC_shield.jpg
-
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/TLE9879_BLDC_shield.jpg" width="400">
 
 
 
