@@ -33,7 +33,12 @@ is a inteligent B6 MOSFET driver designed especially for automotive motion contr
 * Oil pump
 
 ## Examples
-For the description of the [examples](docs/Examples.md)
+Three examples are available to be used with the TLE9879 BLDC shield.
+
+* Blinky
+* Single motor
+* Multiple motor
+For the description of the [examples](examples/bldc_shield_blinky_test)
 
 
 
