@@ -35,10 +35,10 @@ is a inteligent B6 MOSFET driver designed especially for automotive motion contr
 ## Examples
 Three examples are available to be used with the TLE9879 BLDC shield.
 
-* Blinky
-* Single motor
-* Multiple motor
-For the description of the [examples](examples/bldc_shield_blinky_test)
+* [Blinky](examples/bldc_shield_blinky_test/bldc_shield_blinky_test.ino)
+* [Single motor](examples/bldc_shield_single_motor_test/bldc_shield_single_motor_test.ino)
+* [Multiple motor](examples/bldc_shield_multiple_motor_test/bldc_shield_multiple_motor_test.ino)
+
 
 
 
