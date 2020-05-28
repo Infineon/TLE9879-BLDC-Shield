@@ -39,6 +39,9 @@ Three examples are available to be used with the TLE9879 BLDC shield.
 * [Single motor](examples/bldc_shield_single_motor_test/bldc_shield_single_motor_test.ino)
 * [Multiple motor](examples/bldc_shield_multiple_motor_test/bldc_shield_multiple_motor_test.ino)
 
+A documentation of the API for Arduino can be found in chapter 4 of the [user manual](Infineon-BLDC_Shield_with_TLE9879QXA40_for_Arduino-UM.pdf).
+
+
 
 
 
