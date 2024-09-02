@@ -25,6 +25,10 @@ The library should be supported by any Arduino platform based on the reference A
 
 Please refer to [this getting started guide](https://www.infineon.com/dgdl/Infineon-BLDC_Shield-GS-v01_00-EN.pdf?fileId=5546d462696dbf120169a0bb0da76e77).
 
+### Alternative Firmware
+
+The TLE9879 has an included microcontroller and therefore runs an own firmware. This firmware can be modified depending on your use case. Please refer to [this software package](https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879/#!?fileId=5546d4626cb27db2016d48771e9c161a) for all required tools, sources and documentation.
+
 ### More information
 
 - [Product Page](https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879)
