@@ -1,47 +1,42 @@
-# TLE9879-BLDC-Shield
+# TLE9879 BLDC Shield Arduino Library
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/TLE9879_BLDC_shield.jpg" width="400">
+![build-check](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/build-check.yml/badge.svg)
 
+![platformio_ci](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/platformio_ci.yml/badge.svg)
 
+Arduino library of Infineon's BLDC motor control shield with TLE9879 for Arduino.
 
-Arduino library for Infineon's [BLDC Shield with TLE9879](https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879/).
+## Supported Products
 
-## Summary
-The BLDC shield is a small evaluation board equipped with the TLE9879 to use with Arduino. Up to 4 boards can be stacked ontop of each other to control 4 BLDC motors indepedently. Each shield can supply up to 10 A load current. The implemented integrated [TLE9879](https://www.infineon.com/cms/en/product/microcontroller/embedded-power-ics-system-on-chip-/3-phase-bridge-driver-integrated-arm-cortex-m3/)
-is a inteligent B6 MOSFET driver designed especially for automotive motion control applications such as wiper, engine cooling fan or Fuel pump.
+<table>
+    <tr>
+        <td><img src="https://github.com/Infineon/Assets/blob/master/Pictures/TLE9879_BLDC_shield.jpg" width="200"></td>
+    </tr>
+    <tr>
+        <td style="text-align: center"><a href="https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879">BLDC_SHIELD_TLE9879</a></td>
+    </tr>
+</table>
 
-## Key Features and Benefits
-* 32-bit Arm® Cortex® -M3 core at up to 40 MHz
-* Single power supply from 5.5 V to 28 V
-* FLASH up to 128 KB, RAM up to 6 KB
-* 1x LIN transceiver
-* 2x UART, 2x SSC
-* 3-phase bridge driver with charge pump and PWM generator
-* 1x low-side shunt current sense amplifier
-* 1x 10-bit ADC/8 ch and 1x 8-bit ADC/10 ch
-* 10x 16-bit timer, 1x 24 bit timer
-* Temperature Range-GRADE1 TJ: -40 °C up to 150 °C
-* Temperature Range-GRADE0 TJ: -40 °C up to 175 °C
-* Ultra compact application footprint with VQFN-48 packages
+### Supported Hardware Platforms
 
+The library should be supported by any Arduino platform based on the reference Arduino cores.
 
-## Target Applications:
-* Wiper
-* Engine cooling fan
-* Auxillary water pump
-* Fuel pump
-* Oil pump
+### Getting Started
 
-## Examples
-Three examples are available to be used with the TLE9879 BLDC shield.
+Please refer to [this getting started guide](https://www.infineon.com/dgdl/Infineon-BLDC_Shield-GS-v01_00-EN.pdf?fileId=5546d462696dbf120169a0bb0da76e77).
 
-* [Blinky](examples/bldc_shield_blinky_test/bldc_shield_blinky_test.ino)
-* [Single motor](examples/bldc_shield_single_motor_test/bldc_shield_single_motor_test.ino)
-* [Multiple motor](examples/bldc_shield_multiple_motor_test/bldc_shield_multiple_motor_test.ino)
+### Alternative Firmware
 
-A documentation of the API for Arduino can be found in chapter 4 of the [user manual](Infineon-BLDC_Shield_with_TLE9879QXA40_for_Arduino-UM.pdf).
+The TLE9879 has an included microcontroller and therefore runs an own firmware. This firmware can be modified depending on your use case. Please refer to [this software package](https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879/#!?fileId=5546d4626cb27db2016d48771e9c161a) for all required tools, sources and documentation.
 
+### More information
 
+- [Product Page](https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879)
+- [User's Manual](https://www.infineon.com/dgdl/Infineon-BLDC_shield-UserManual-v01_02-EN.pdf?fileId=5546d462696dbf120169a0bb25396e7d)
+- [Other Infineon Shields for Arduino](https://www.infineon.com/cms/en/tools/landing/infineon-for-makers/arduino-shields)
+  
+### License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 

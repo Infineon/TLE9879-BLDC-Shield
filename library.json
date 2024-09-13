@@ -1,0 +1,17 @@
+{  
+    "name":"TLE9879 BLDC Motor Control Shield",
+    "keywords":"tle9879, bldc, motor, brushless",
+    "description":"This library allows to control the TLE9879 BLDC motor control shield for Arduino",
+    "repository":{  
+       "type":"git",
+       "url":"https://github.com/Infineon/TLE9879-BLDC-Shield.git",
+       "branch":"master"
+    },
+    "version":"1.1.0",
+    "license":"MIT",
+    "frameworks":"arduino",
+    "platforms":[  
+       "infineonxmc",
+       "atmelavr"
+    ]
+ }
