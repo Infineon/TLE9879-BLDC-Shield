@@ -13,7 +13,7 @@ Arduino library of Infineon's BLDC motor control shield with TLE9879 for Arduino
         <td><img src="https://github.com/Infineon/Assets/blob/master/Pictures/TLE9879_BLDC_shield.jpg" width="200"></td>
     </tr>
     <tr>
-        <td style="text-align: center"><a href="https://github.com/Infineon/multi-half-bridge/wiki/Ino-Getting-Started">BLDC motor control shield with TLE9879 for Arduino</a></td>
+        <td style="text-align: center"><a href="https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879">BLDC_SHIELD_TLE9879</a></td>
     </tr>
 </table>
 
