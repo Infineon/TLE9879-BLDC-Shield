@@ -1,8 +1,6 @@
+[![Compile examples](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/compile_examples.yml/badge.svg)](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/compile_examples.yml)
+
 # TLE9879 BLDC Shield Arduino Library
-
-![build-check](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/build-check.yml/badge.svg)
-
-![platformio_ci](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/platformio_ci.yml/badge.svg)
 
 Arduino library of Infineon's BLDC motor control shield with TLE9879 for Arduino.
 
@@ -38,5 +36,3 @@ The TLE9879 has an included microcontroller and therefore runs an own firmware. 
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
