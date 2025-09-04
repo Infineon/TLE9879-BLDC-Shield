@@ -1,4 +1,5 @@
 [![Compile examples](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/compile_examples.yml/badge.svg)](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/compile_examples.yml)
+[![Check links](https://github.com/Infineon/XMC-for-Arduino/actions/workflows/check_links.yml/badge.svg)](https://github.com/Infineon/XMC-for-Arduino/actions/workflows/check_links.yml)
 
 # TLE9879 BLDC Shield Arduino Library
 
@@ -29,9 +30,9 @@ The TLE9879 has an included microcontroller and therefore runs an own firmware. 
 
 ### More information
 
-- [Product Page](https://www.infineon.com/cms/en/product/evaluation-boards/bldc_shield_tle9879)
+- [Product Page](https://www.infineon.com/evaluation-board/BLDC-SHIELD-TLE9879)
 - [User's Manual](https://www.infineon.com/dgdl/Infineon-BLDC_shield-UserManual-v01_02-EN.pdf?fileId=5546d462696dbf120169a0bb25396e7d)
-- [Other Infineon Shields for Arduino](https://www.infineon.com/cms/en/tools/landing/infineon-for-makers/arduino-shields)
+- [Other Infineon Shields for Arduino](https://www.infineon.com/infineon-for-makers)
   
 ### License
 
