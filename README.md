@@ -1,5 +1,5 @@
 [![Compile examples](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/compile_examples.yml/badge.svg)](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/compile_examples.yml)
-[![Check links](https://github.com/Infineon/XMC-for-Arduino/actions/workflows/check_links.yml/badge.svg)](https://github.com/Infineon/XMC-for-Arduino/actions/workflows/check_links.yml)
+[![Check links](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/check_links.yml/badge.svg)](https://github.com/Infineon/TLE9879-BLDC-Shield/actions/workflows/check_links.yml)
 
 # TLE9879 BLDC Shield Arduino Library
 
